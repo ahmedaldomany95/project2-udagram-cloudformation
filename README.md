@@ -1,6 +1,6 @@
-# Udacity Project nr 2 || Cloud DevOps Engineer
+# Udacity Project 2 || Cloud DevOps Engineer
 
-#### Ahmed Aldomany thepatrvq@gmail.com
+#### Ahmed Aldomany ahmed.aldomany.work@gmail.com
 
 
 ## Deploy a High-Availability Web App using CloudFormation
@@ -110,4 +110,7 @@ It creates a CloudFormation stack named Udagram, with infrastructure described i
 # Website Link :
 
 [http://udagram-1112284674.us-east-1.elb.amazonaws.com/udagram/](http://udagram-1112284674.us-east-1.elb.amazonaws.com/udagram/)
+
+# Website Screenshot
+![Udegram-app-is-working](https://user-images.githubusercontent.com/107270601/176947564-cf81ab9e-70f1-4961-a4b7-f1f55953fd2b.png)
 
